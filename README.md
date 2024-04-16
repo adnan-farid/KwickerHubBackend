@@ -15,3 +15,5 @@ The 'the_connector' Folder contains login details to the Database. It contains t
 The 'hashing' Folder contains functions that can help you in hashing strings or user data. We will be using BCRYPT on the user password after salting it.
 
 The 'generator' Folder contains functions that can generate different kinds of strings or integers. The generated string or integer is mean't to be unique and will be used in the user verification.
+
+push to trigger sonarCube
